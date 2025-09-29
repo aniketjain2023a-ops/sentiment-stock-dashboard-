@@ -1,0 +1,6 @@
+requests
+vaderSentiment
+nltk
+pandas
+plotly
+numpy
